@@ -1,0 +1,6 @@
+name: dart_benchmark_playground
+publish_to: none
+environment:
+  sdk: ^3.0.0
+dev_dependencies:
+  benchmark_harness: ^2.3.0
